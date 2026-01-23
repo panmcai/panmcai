@@ -1,16 +1,13 @@
-## Hi there 👋
+# 大家好，我是Peter·Pan，一个专注于高性能计算的软件工程师
+下面是我的简单介绍：
+- 精通C++编程，泛型编程，多线程编程以及常见设计模式等C++编程技术
+- 精通Makefile,Cmake,GTest，Pytest，GDB等常用开发工具
+- 精通python语言，熟悉pytorch与numpy等常见Python库的使用
+- 精通CUDA编程，熟悉llvm编译器，精度CUDA TCore编程算法，例如GEMM,Flash Attention等
+- All In AI, 习惯使用AI Agent协助开发，提升效率
 
-<!--
-**panmcai/panmcai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 技术分享：
+[CSDN @ Peter·Pan爱编程](https://blog.csdn.net/weixin_42125125?spm=1000.2115.3001.5343) | [个人网站](http://peter.panmcai.dpdns.org/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 免费工具推荐
+[FloatVisualizer](https://panmcai.github.io/FloatVisualizer/)
