@@ -10,4 +10,4 @@
 [CSDN @ Peter·Pan爱编程](https://blog.csdn.net/weixin_42125125?spm=1000.2115.3001.5343) | [个人网站](https://peter.panmcai.dpdns.org/)
 
 # 免费工具推荐
-[FloatVisualizer](https://panmcai.github.io/FloatVisualizer/)
+[FloatVisualizer](https://panmcai.github.io/FloatVisualizer/) | [RegexBox](https://regexbox.panmcai.dpdns.org/) | [FormatFactory](https://panmcai.github.io/FormatFactory/)
