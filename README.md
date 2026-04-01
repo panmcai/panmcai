@@ -4,7 +4,7 @@
 - 精通Makefile,Cmake,GTest，Pytest，GDB等常用开发工具
 - 精通python语言，熟悉pytorch与numpy等常见Python库的使用
 - 精通CUDA编程，熟悉llvm编译器，精度CUDA TCore编程算法，例如GEMM,Flash Attention等
-- All In AI, 习惯使用AI Agent协助开发，提升效率
+- All In AI, 使用AI Agent协助开发，效率翻倍
 
 # 技术分享：
 [CSDN @ Peter·Pan爱编程](https://blog.csdn.net/weixin_42125125?spm=1000.2115.3001.5343) | [个人网站](https://www.peterpanai.com/)
