@@ -9,6 +9,24 @@
 - **AI 提效实践**：All in AI Agent，用 AI 辅助设计、编码与调试，**开发效率翻倍**；持续分享 AI 工具链与高效工作流
 - **工程底盘**：C++/泛型/多线程/设计模式、CMake/GDB/GTest/Pytest 等硬核技能，支撑高质量软件交付
 
+## 🧠 我的技能树
+```mermaid
+mindmap
+  root((Peter·Pan AI 技术栈))
+    AI 底层优化
+      CUDA / TensorCore
+      GEMM / Flash Attention
+      LLVM 编译工具链
+    模型与应用
+      Python
+      PyTorch / NumPy
+      C++ 高性能编程
+    工程与提效
+      CMake / GDB / GTest
+      设计模式 / 多线程
+      AI Agent 全流程开发
+```
+
 ## 📢 在哪里能看到我的分享
 - 📘 CSDN：[Peter·Pan爱编程](https://blog.csdn.net/weixin_42125125?spm=1000.2115.3001.5343)  
 - 🌐 个人网站：[https://www.peterpanai.com](https://www.peterpanai.com)  
